@@ -1,2 +1,0 @@
-# cpmspec
-Script game guardian
