@@ -1,3 +1,7 @@
+gg.alert("Selamat datang ke skrip utama! Key anda sah.")
+-- Letak skrip GG sebenar awak sini
+
+
 if os.date("%Y%m%d") > "20291110" then
 time=gg.alert([[
                      ☣️THIS SCRIPT HAS EXPIRED ☣️
