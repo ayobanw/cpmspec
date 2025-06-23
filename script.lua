@@ -1,7 +1,7 @@
 local github_user = "ayobanw"
 local repo_name = "cpmspec"
 local key_file = "keys.txt"
-local script_file = "main.lua"
+local script_file = "[AYOB] SCRIPT SPEC GitHub V4.9.2.lua"
 
 local key_url = "https://raw.githubusercontent.com/" .. github_user .. "/" .. repo_name .. "/main/" .. key_file
 local script_url = "https://raw.githubusercontent.com/" .. github_user .. "/" .. repo_name .. "/main/" .. script_file
